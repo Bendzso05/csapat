@@ -1,0 +1,18 @@
+body {
+  background-color: wheat;
+  color: SaddleBrown; 
+  
+}
+
+.kepek {
+  text-align: center;
+}
+#kepek img {
+  height: 200px;
+  width: auto;
+}
+
+a {
+  text-decoration: none;
+  
+}
